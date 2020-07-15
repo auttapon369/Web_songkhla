@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <GroundOverlay>
+        <name>Large-scale overlay on terrain</name>
+        <description>Overlay shows Mount Etna erupting on July 13th, 2001.</description>
+        <Icon>
+          <href>http://www.telepattani.com/web/v5/package/module/map/floodmap.php?path=Floodmap-max.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>6.902082</north>
+          <south>6.509125</south>
+          <east>101.472388</east>
+          <west>101.058644</west>
+        </LatLonBox>
+      </GroundOverlay>
+</kml>
